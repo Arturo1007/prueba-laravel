@@ -9,7 +9,7 @@
 <body>
     <h1>Pagina</h1>
     <p>hola pibe</p>
-    <div style="height: 500px;width: 500px;background: red">
+    <div style="height: 500px;width: 500px;background: blue">
 
     </div>
 
