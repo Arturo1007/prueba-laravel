@@ -7,7 +7,12 @@
     <title>Prueba laravel</title>
 </head>
 <body>
-    <h1>Titulo</h1>
+    <h1>Pagina</h1>
+    <p>hola pibe</p>
+    <div style="height: 500px;width: 500px;background: red">
+
+    </div>
+
 
     
 </body>
